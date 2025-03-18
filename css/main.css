@@ -59,3 +59,14 @@ main {
 .weather-info_forecast-view {
     display: none;
 }
+
+.weather-info_city {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.weather-info_btn-return {
+    padding: 5px 25px;
+    border: 2px solid black;
+}
