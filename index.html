@@ -2,9 +2,36 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Baloo+Thambi+2:wght@400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/main.css">
     <title>Weather App 0.1</title>
 </head>
 <body>
+<main>
+    <section class="weather-info" id="mainContainer">
+        <div id="weatherSearchView" class="weather-info_search-view">
+            <label class="weather-info_search-label" for="searchInput">Check weather:</label>
+            <input type="text" id="searchInput">
+            <button id="searchButton">search</button>
+        </div>
 
+        <div class="weather-info_forecast-view" id="weatherForecastView">
+            <button class="weather-info__btn-return" id="returnToSearchBtn">return</button>
+
+            <div class="weather-info_city">
+                <h1 id="weatherCity"></h1>
+                <img id="weatherIcon" alt="zdjecie ">
+            </div>
+
+            <div class="weather-info_temperatures">
+                <h2 id="weatherCurrentTemp"></h2>
+                <p id="weatherMaxTemp" ></p>
+                <p id="weatherMinTemp"></p>
+            </div>
+        </div>
+    </section>
+</main>
+<script src="app/main.js"></script>
 </body>
 </html>
