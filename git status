@@ -1,0 +1,23 @@
+[33mcommit 4155b3f0490f63c181bc57ab5b921937db107343[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdevelop[m[33m)[m
+Author: Maciej Czyrnek <maciej.czyrnek@discam.pl>
+Date:   Tue Mar 18 19:06:03 2025 +0100
+
+    uzupełnienie mainjs
+
+[33mcommit 8b0aa9a41bd00cac885b755143e9bc27b7fbdf25[m[33m ([m[1;31morigin/develop[m[33m)[m
+Author: Maciej Czyrnek <maciej.czyrnek@discam.pl>
+Date:   Tue Mar 18 15:21:46 2025 +0100
+
+    dodano stylownaie i szablon html
+
+[33mcommit 88dcb843c648525fc6872e33dc2b3bffa28d096f[m
+Author: Maciej Czyrnek <maciej.czyrnek@discam.pl>
+Date:   Tue Mar 18 14:32:37 2025 +0100
+
+    dodanie struktury katalogów
+
+[33mcommit 5ea8d4ce03c0e1f03937d69e1d5e5deaded9f7ba[m[33m ([m[1;32mmain[m[33m)[m
+Author: Maciej Czyrnek <maciej.czyrnek@discam.pl>
+Date:   Tue Mar 18 13:34:49 2025 +0100
+
+    Initial commit
